@@ -1,0 +1,5 @@
+HTTP_REQUEST: "https://api.mojang.com/users/profiles/minecraft/"
+HTTP_ANSWER: "https://sessionserver.mojang.com/session/minecraft/profile/%s?unsigned=false"
+Prefix: "&6&lDisguise &8|"
+Language: EN
+Permission: disguisable.* # To run the command <- /disguise

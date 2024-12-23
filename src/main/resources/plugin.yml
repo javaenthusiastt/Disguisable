@@ -1,0 +1,8 @@
+name: Disguisable
+version: '1.0-SNAPSHOT'
+main: sorryplspls.disguisable.Disguisable
+api-version: '1.20'
+
+commands:
+  disguise:
+
